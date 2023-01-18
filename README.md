@@ -1,7 +1,7 @@
 ### Hi there, I'm xami 👋
 
 I am a 16-year old high school student in France, and an aviation & cryptocurrency enthusiast.
-<span style="color:blue align:center">Discord: xami#0295</span>
+
 #### Tools and languages I use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
