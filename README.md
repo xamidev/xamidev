@@ -1,4 +1,1 @@
-# xamidev
-<div style="text-align:center;">
-👋 Hi. I love programming, aviation and music. I am new to Github!
-</div>
+[![Xamidev's GitHub stats](https://github-readme-stats.vercel.app/api?username=xamidev&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
