@@ -1,6 +1,6 @@
 ### Hi there, I'm xami 👋
 
-I am a 16-year old high school student in France, and an aviation & cryptocurrency enthusiast.
+I am a high school student in France, and an aviation & cryptocurrency enthusiast.
 
 #### Tools and languages I use
 
