@@ -14,4 +14,4 @@ I am a high school student in France, and an aviation & cryptocurrency enthusias
 
 #### Profile views
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=xamidev&color=red&style=for-the-badge&label=Total+Visitors)
