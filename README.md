@@ -1,3 +1,3 @@
 ### 🌌 Passionate about the Universe!
 
-Check out my [canary](CANARY.md) for contact information and PGP.
+Free and open-source software advocate. Check out my [canary](CANARY.md) for contact information and PGP.
