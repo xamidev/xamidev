@@ -3,29 +3,30 @@
 Hash: SHA256
 
 Hey, I'm @xamidev!
-Alive and free as of 12th of August, 2024 6:30PM UTC
+Alive and free as of 30th of August, 2024 11:35PM UTC
 
 Contact e-mail: dev.sharpener432@passfwd.com
 PGP: EB31 A35D 8C03 5DF4 (keys.openpgp.org)
 
-MOTD: Passionate about the Universe.
+Monero donations:
+84w6nuzj74Q3DAkqVpPDfCB19jvS5wMLdUieGeZZf7F4GE8hy9vyQM2X6sVpemmKis59fW5drFzJH1NAVmRUYuh63vQJfah
 
 Latest Monero block hash:
-6061785aff0d5bd4733b54eb979778d0b548c3be8152d4c43bb1757f16548c25
+c11fc26f7e6228198be743ee4bd07240e99a16d2867c12b4a9cb7abeff0cc129
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEnxAeJIzAx2JPbeRf6zGjXYwDXfQFAma6V3QACgkQ6zGjXYwD
-XfQD7xAArLy3XeQ4+B5eGCPlV89XaWth8M5DsSRL3lEuhIUx2Sz1od/IYfprdzAO
-/N/PsrqD8KaicVMpvknPBjzsZ+dtl4bqCpK67bL1Q7vOFBq8UqdbDUo4ENWoDo1H
-keV8+Gd+60M3O5OpqQOErVyDbukyjCACDd8BGH2Dtb0YrTGsDHpPxoVuvni0iwbi
-h0FGXKwdRwDlDt7auL2y3TUQsezaZyg9wMhOAHLQl6IXhFRlTdmLk6BEFBNs0sd/
-jPj8aG8c70f3lgd8juuUrrihmaebpFr/Jo+pjiCTb9WY7tEf8Q8V9qAGUdBwvOn8
-M4WfrUB8z2jkEfXkkjz61CsZFg3oCpILe1CEwILD5A0IwFo6LPyLfnsYcEKHbvHv
-LerjU256wyyKLytvzbxmX5nikM7zp2/3l2Rxi6KxNxYN7QgFwQJxV7HQijhd0SCu
-19xWmkb+sw9SgQ3b+6SJcvNziStzQHtmi/dBx1wfpeJuLnBfqYREPAO4/BgiEufE
-o/4aTrFhgZoeHFSZMU8muLJePCUCPfBi9g6xV34ruD4Q+ItVJHuRACvojVCd/SRp
-5S8ygmSm5IwQCXpWbYWvuryQ+kWuqkMvV5fl7SH0boMtAbjp015W9h/lYNB5ENZy
-61GfuFLd15OXU3lZF6klEEFYyoIEHZWXkzssE7tOH3b6JFK00uA=
-=Zxuf
+iQIzBAEBCAAdFiEEnxAeJIzAx2JPbeRf6zGjXYwDXfQFAmbRrxQACgkQ6zGjXYwD
+XfRgHg/+Kggp8033pdf8TPo0MB3vRLaqmMZZx+5+Xb6mXp9vtnPJt/hBNy8wu9cS
+ks2bH5Jy81nkPzK9TDJtjYpA5maymB9PdETlxHWQv+F+xfKf/B/tcuE0unOkB9G9
+Gl09DfksnFAX/kkPsH8/JRoabMKv7RrbGmpWRaahx3wBLomk5NIEaaT+9eEHheEQ
+wxViVqzYggGihb0dxxkOgyXOKPP9MGErNZgh14ZZprlta9AXALO0ZlmrL75Gtr9d
+2sY43Lu4f1Lx1nMPh7pNie1eVk+g4RKtgKoVeCNhdAz/wvKcKPzpCPQnL2LI740T
+UAI44mXGp7+z3ymbfZijbe0gzUgi9ZK0RDIMyHOd3mm6tuQVCwYw+V6VUVtiyZKF
+mduHIC99jHvC2UUO2E+v4WrBW5wU7ShW+Fl924VyjT+Vxg2r8ociQyUXaR+8B8uV
+FqgD2z2X6KQkeLMhXWeTRiJOCEW3Ba/LW99/8Y1GVhlQu+8qBFmlphhVJSD8ujNh
+gtKwW50a1aRrfdIcyGXQK/e4AaJVBb+4UR9LH3FWh2w5sukbd7KsdD9WeAKfLN2e
+fnVX18lT8jST/iHQ78oWcuzgV6n0J/5k7MGDKdPyUKha9dOEPexO0ImPGIvcD19n
+7rwy2XQDQSrxYIGndZrlwdgUX7Igign/6c/WlJ1bz8iWnzBphfk=
+=LLMr
 -----END PGP SIGNATURE-----
 ```
