@@ -3,30 +3,30 @@
 Hash: SHA256
 
 Hey, I'm @xamidev!
-Alive and free as of 30th of August, 2024 11:35PM UTC
+Alive and free as of 5th of September, 2024 1:45PM UTC
 
 Contact e-mail: dev.sharpener432@passfwd.com
-PGP: EB31 A35D 8C03 5DF4 (keys.openpgp.org)
+You can find my PGP public key in the .asc file on this repo.
 
 Monero donations:
 84w6nuzj74Q3DAkqVpPDfCB19jvS5wMLdUieGeZZf7F4GE8hy9vyQM2X6sVpemmKis59fW5drFzJH1NAVmRUYuh63vQJfah
 
 Latest Monero block hash:
-c11fc26f7e6228198be743ee4bd07240e99a16d2867c12b4a9cb7abeff0cc129
+916b13731837748203188fd2f54c47e41a1e6a6c181d3a10fa637a611cbad97c
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEnxAeJIzAx2JPbeRf6zGjXYwDXfQFAmbRrxQACgkQ6zGjXYwD
-XfRgHg/+Kggp8033pdf8TPo0MB3vRLaqmMZZx+5+Xb6mXp9vtnPJt/hBNy8wu9cS
-ks2bH5Jy81nkPzK9TDJtjYpA5maymB9PdETlxHWQv+F+xfKf/B/tcuE0unOkB9G9
-Gl09DfksnFAX/kkPsH8/JRoabMKv7RrbGmpWRaahx3wBLomk5NIEaaT+9eEHheEQ
-wxViVqzYggGihb0dxxkOgyXOKPP9MGErNZgh14ZZprlta9AXALO0ZlmrL75Gtr9d
-2sY43Lu4f1Lx1nMPh7pNie1eVk+g4RKtgKoVeCNhdAz/wvKcKPzpCPQnL2LI740T
-UAI44mXGp7+z3ymbfZijbe0gzUgi9ZK0RDIMyHOd3mm6tuQVCwYw+V6VUVtiyZKF
-mduHIC99jHvC2UUO2E+v4WrBW5wU7ShW+Fl924VyjT+Vxg2r8ociQyUXaR+8B8uV
-FqgD2z2X6KQkeLMhXWeTRiJOCEW3Ba/LW99/8Y1GVhlQu+8qBFmlphhVJSD8ujNh
-gtKwW50a1aRrfdIcyGXQK/e4AaJVBb+4UR9LH3FWh2w5sukbd7KsdD9WeAKfLN2e
-fnVX18lT8jST/iHQ78oWcuzgV6n0J/5k7MGDKdPyUKha9dOEPexO0ImPGIvcD19n
-7rwy2XQDQSrxYIGndZrlwdgUX7Igign/6c/WlJ1bz8iWnzBphfk=
-=LLMr
+iQIzBAEBCAAdFiEEnxAeJIzAx2JPbeRf6zGjXYwDXfQFAmbZtloACgkQ6zGjXYwD
+XfQtvQ//fNPhcA6id418VADHCJF9EB9Ziw0KFXfnH4ay6X2KXadtTW5Oo8y0Pkgl
+Wk0qBeKTaZBv5URNXabsxLmC9M4lL5D1jYzyrjyErlsnSOxXgu0ulUIwcObrWQkD
+fqdmSLhw6ixG7vyqKSKKZPiHX5R5JpZB8omIoKNgjZtMEzGXSYCAvHopAW4Fwtgw
+I7HZWsKiaOVIBY01jzsD50jplgTPaAQYIknhu7M7Qh6CxPnZzdFypYbQct38cbkP
+quzofXFmqnOZZ3xlYTw87vEcOawFcQ2R21P62mQmt5aGxO/2NX18mNnw/jn2ch/z
+AfEC+CdS/PMHL1yUutKWSWxCobkKmRgEzJNal90mmQDyM77dvb9MtKdH9mQmhn3s
+SgldlgCJ49g/BegA+4+S8RjMh38tkU19hZpKlF/H8d0OQ8dwLBTbBLBIVanS6wMx
+qe9HLAZ7A18rKrSjA8+DBnP6LJCiV28jk4pLmQgI2Go3WPsK0dSCzvRnnHVE+7v4
+v+0DtsT9T6ZmNRvTmdvJ3ACqdTcGidKDF7ozyMcAn/H/X2Q3+c/mV1Xb578wNVuI
+qF8uHCfQ63noqNhpw2Qhf+t3KrloTl+NoMRhqbGS3RhAYM/FPD0+KlTO8uwB2oiC
+fagFfa6fJ7n7nrkI9UhrVYpZDQ7j6z5Vyw7y/Mc3TzOOkeDfrn0=
+=Cloi
 -----END PGP SIGNATURE-----
 ```
