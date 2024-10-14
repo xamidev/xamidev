@@ -2,31 +2,28 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-Hey, I'm @xamidev!
-Alive and free as of 5th of September, 2024 1:45PM UTC
+github.com/xamidev
 
-Contact e-mail: dev.sharpener432@passfwd.com
-You can find my PGP public key in the .asc file on this repo.
-
-Monero donations:
-84w6nuzj74Q3DAkqVpPDfCB19jvS5wMLdUieGeZZf7F4GE8hy9vyQM2X6sVpemmKis59fW5drFzJH1NAVmRUYuh63vQJfah
+I am alive and free as of 14th of October, 2024 7:30 UTC.
+This note will be renewed in the next 90 days.
 
 Latest Monero block hash:
-916b13731837748203188fd2f54c47e41a1e6a6c181d3a10fa637a611cbad97c
+b1d92cb6f919f25dbfeaee7890bf9b337adc40b72562e2de14de4c10c16c8934
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEnxAeJIzAx2JPbeRf6zGjXYwDXfQFAmbZtloACgkQ6zGjXYwD
-XfQtvQ//fNPhcA6id418VADHCJF9EB9Ziw0KFXfnH4ay6X2KXadtTW5Oo8y0Pkgl
-Wk0qBeKTaZBv5URNXabsxLmC9M4lL5D1jYzyrjyErlsnSOxXgu0ulUIwcObrWQkD
-fqdmSLhw6ixG7vyqKSKKZPiHX5R5JpZB8omIoKNgjZtMEzGXSYCAvHopAW4Fwtgw
-I7HZWsKiaOVIBY01jzsD50jplgTPaAQYIknhu7M7Qh6CxPnZzdFypYbQct38cbkP
-quzofXFmqnOZZ3xlYTw87vEcOawFcQ2R21P62mQmt5aGxO/2NX18mNnw/jn2ch/z
-AfEC+CdS/PMHL1yUutKWSWxCobkKmRgEzJNal90mmQDyM77dvb9MtKdH9mQmhn3s
-SgldlgCJ49g/BegA+4+S8RjMh38tkU19hZpKlF/H8d0OQ8dwLBTbBLBIVanS6wMx
-qe9HLAZ7A18rKrSjA8+DBnP6LJCiV28jk4pLmQgI2Go3WPsK0dSCzvRnnHVE+7v4
-v+0DtsT9T6ZmNRvTmdvJ3ACqdTcGidKDF7ozyMcAn/H/X2Q3+c/mV1Xb578wNVuI
-qF8uHCfQ63noqNhpw2Qhf+t3KrloTl+NoMRhqbGS3RhAYM/FPD0+KlTO8uwB2oiC
-fagFfa6fJ7n7nrkI9UhrVYpZDQ7j6z5Vyw7y/Mc3TzOOkeDfrn0=
-=Cloi
+iQIzBAEBCAAdFiEEnxAeJIzAx2JPbeRf6zGjXYwDXfQFAmcNcN4ACgkQ6zGjXYwD
+XfTIbhAAmA6HvYx/o2gwosoTgAK4g4F9DTiCqNxPcYOfPOwdhAKgLibB485JDINm
+EeLnkxO8WfdFIQu0BGwTKAWcwDOY3QcHMOj4+mtaibl6mnnAX77p96wuNRjPKrT5
+cSqutorMEvvEejVENHTDnp00srmzWP4azKAweVKUs3xumX7CJRWrKhArARVF/oMk
+B1iM8/B0KgG81mN0eZtkQ5ONrcAjb4cl4phepuxAINDQzTWrisx7k9fohdOtsMWf
+8UiQliYK31ht9vK8EELDlQYiwT6WPipJo1J49Iab6s8VHPTDNKAlKcZuCdfJOFpG
+kKsR5A13huwCqMCz1yDC7sJ3gpbXF+6E2yQvtQhKjrYOdHWtmE58yZ6SFlX1UGNA
+9iORLiNHwnZ2ll7GcYe6nFrJa6XQ2rooERHy7zogpAt4pVE3CNWrWve1OwriRYvD
+uECQnwoms4DcrtpIZiqRQrdQWgNJ+vcVidQhzQxNv/9MaYROxCQnMPAdtyBXOhQq
+MNyIzwWeaMEWrl14EZAobyBcsfwH8XwShcI3bV2T8TIMynr8exR9iCrx2bJCXkNX
+sqPYhWMSStzGJ5EavrLahxLzHFNI9w/xMNciFu8zt9EhCr/sxNzbxB2Ox5ySuxE0
+HvRSNcuQ2XOG6QT6oHnmqNNMERcYPn5/MzszX5ytiDsH++pEU8M=
+=VjwY
 -----END PGP SIGNATURE-----
+
 ```
