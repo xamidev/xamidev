@@ -4,23 +4,24 @@ Hash: SHA512
 
 github.com/xamidev <xamidev@riseup.net>
 
-I am alive, free, and in control of my PGP key as of 8th of November, 2024.
-This note will be renewed in less than 30 days.
+I am alive, free, and in control of my PGP key as of 24th of December, 2024.
+This note will be renewed in less than 90 days.
 
 Latest Monero block hash:
-5771450f36ea2ad9a8f641fba6ad41762bf06457b8c58dceb1bf5a801f3243f4
+911e959a20ba6157dd7cccf55c9e3431fb4afadfa009186f7148cb378b33bd97
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEErDL26y2hVQrO397oLW3bfhIptHsFAmcucWYACgkQLW3bfhIp
-tHt8aQwAlK5bS6d4gnaiYtzQl7G1xvdl2TjxR/FoP/u6iqvuc2df/4iKj3uysnAM
-kJeN5i4bWJacgM8IKSZKedic8+jnc4P4NBmcZWdLK+/SPlQw/l5o/OOvc/W0Wpln
-x3SyRwgDn6KAaYBY+rsHqHn0oiAch0QX3KuRTG1GATuWzCwb20e1r6d3qxkN/O+r
-Jr/rlr3zORZktLbQqFW1kZLYUqG2H+7fXzMA8FabDvRoHwro1fxDNQQyOi637kL5
-YM8jF0SLI7pPvGfSzTz+QK60dwqb/xeWvDniHa4kp8tPLI+hMVA4HqUiQWXJb7JV
-9OqdHBTN4/qVJYJ/t/PsF3CWrfqlL+pwU99q1dxEbwERcdTvflThEpfOgvzqjCsX
-W1WqKpobZl34oUV4ZhkSvdfO6XxrCE0O14d420ry8opgw2cTQJEby+XLuF7aypWv
-BcEu6YyqhgNPh1FEeTTFVRiJFmv86o5OvpAUBcv9sgDejymalKyMeVRNdHM7lhYJ
-7/PDIZA9
-=wphu
+iQGzBAEBCgAdFiEErDL26y2hVQrO397oLW3bfhIptHsFAmdqtzcACgkQLW3bfhIp
+tHtPHQwAjvP8Tvr72vmpkJyGOZ6V+fDPxbrsjQngAF56y4TXRg2RTsaGxRi7go9Q
+e/I2Rvm+VsFp6wewu376aIzcUTZTK2mODs2Y6b2nR+tleJCQie682mabayQa55TF
+lTclpViUUteW1hzmKGsK856aUsacsLZAkjoruT+l9n0ZqmmPBvFaHjnNYRHGbDoM
+7Q8L54b5tGVen31DlFAw/DvMHPbPzaOJFrVIsKf6U0hjV+RjTI4cO45bgCcbK/P2
+f4hxXAYYQuALHrOm0VPM1DjdVgD4ixVMiVZEe8QhfTzV3VbnKu/SxTqFklhoKlYt
+OAksvbRTtDhAZOKy41oKCAkPFPkBrn3F6g1BaEgI/kIivR5VlVh2keCP6SdvHaNk
+yBpxSRur6v45NLfL7P8PxpiN3tdgPVCoKZEzsvM6CRWUaOqpb/b4BygRY981kdcB
+RmcoXwx+VCwvQiKZv5KXU+N5P5JmwqI1f/VTo6USBsEHP4pSCrF80yVkntWb32ga
+UOQR7cyz
+=RGKG
 -----END PGP SIGNATURE-----
+
 ```
